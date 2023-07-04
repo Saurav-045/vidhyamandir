@@ -1,0 +1,242 @@
+.bg{
+    background-image: url("https://saraswati-seva-foundation.org/wp-content/uploads/2023/03/new_bg_inside2.jpg") !important;
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.bgtext1{
+    margin: 75pt;
+    margin-left: 100pt;
+    font-weight: bolder ;
+    font-size: 32pt;
+}
+
+
+.training{
+    font-weight: bolder;
+}
+
+.textss{
+    font-size: 30pt;
+
+}
+
+.header1{
+    background-color: #39487f;
+    height: 60pt;
+    margin-bottom: 20pt;
+    text-align: center;
+    align-items: center;
+    align-self: auto;
+}
+
+.socialmediaicons{
+    position: relative;
+    margin-top: 10pt !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.training-text{
+    margin-top: 60pt;
+    font-size: 32pt;
+    font-weight: bolder;
+    color: #2538a3;
+}
+
+.explore{
+    background-color: orangered !important;
+    margin-left: 80pt;
+    padding-left: 30pt !important;
+    padding-right: 30pt !important;
+}
+
+.explores{
+    background-color: orangered !important;
+    margin-bottom: 5pt !important;
+    padding-left: 25pt !important;
+    padding-right: 25pt !important;
+    
+}
+
+.stayupdated{
+    height: 100% !important;
+    height: 1500pt !important;
+    background-color: #2538a3;
+
+}
+
+.inputmail{
+    background-color: white !important;
+    padding-left: 150pt;
+    padding-right: 150pt;
+    margin-top: 0pt !important;
+    padding-top: 6pt;
+    padding-bottom: 6pt;
+}
+
+.explore:hover{
+    background-color: #39487f !important;
+}
+
+.texts{
+    background-color: #2538a3;
+}
+
+.first{
+    font-size: 20pt;
+    margin-right: 4pt;
+    margin-left: 10pt !important;
+    margin-top: 10pt !important;
+    font-weight: bold;
+    text-align: left !important ;
+}
+
+.second{
+    font-size: 18pt;
+    font-weight: 500;
+}
+
+.block-wrapper {
+    border: 2px solid rgb(247, 232, 232);
+  }
+
+
+
+.blocks{
+    color: black;
+    padding: 2pt;
+    font-size: 15pt;
+    margin: 5pt;
+}
+
+.custom-carousel .slide img {
+    object-fit: cover;
+    height: 150pt;
+    width: 150pt;
+    border-radius: 100%;
+}
+
+.custom-carousel .slide h5 {
+    text-align: center;
+    color: black;
+    margin: 20px 0;
+    padding-right: 100pt;
+    padding-left: 100pt;
+    padding-top: 20pt;
+}
+
+.custom-carousel .slide h6{
+    color: blue;
+    margin-bottom: 50pt;
+}
+
+.custom-carousel .slide h3{
+    color: orange;
+}
+
+.donate{
+    margin-top: 40pt;
+    margin-bottom: 40pt;
+}
+
+.custom-carousel2 .slide img{
+    object-fit: contain;
+}
+
+.block{
+    max-width: 40% !important;
+    align-items: center;
+    justify-content: center;    
+    padding: 10pt;
+    margin: 50pt;
+}
+
+.custom-carousel2 .slide h1{
+    color: #2538a3 !important;
+    font-weight: bolder;
+}
+
+.custom-carousel2 .slide hr{
+    color: rgb(104, 1, 1);
+    min-height: 2pt;
+    z-index: 10;
+}
+
+.donatebtn{
+    background-color: rgb(0, 0, 185) !important;
+    padding-left: 20pt !important;
+    padding-right: 20pt !important;
+    padding-top: 3pt !important;
+    padding-bottom: 3pt !important;
+    margin: 20pt;
+    font-size: 20pt !important;
+    font-weight: bolder !important;
+}
+
+.custom-carousel2 .slide label{
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18pt;
+    color: black;
+}
+
+.newinput{
+    background-color: rgb(241, 243, 243);
+}
+
+.block2{
+    background-color: rgb(255, 255, 255);
+    max-width: 40% !important;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50pt;        
+}
+.info{  
+    background-color: #39487f !important;
+    color: rgb(255, 255, 255);
+    max-width: 40% !important;
+    align-items: center;
+    justify-content: center;    
+    padding-bottom: 10pt;
+    font-size: larger;
+    font-weight: bolder;
+    padding-top: 10pt;
+}
+
+.ssfimage{
+    max-width: 40% !important;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10pt;
+    margin-top:50pt;
+    padding-bottom:25pt;
+}
+
+.nextbtn{
+    color: aliceblue;
+    background-color: #2538a3 !important;
+    padding-left: 40pt !important;
+    padding-right: 40pt !important;
+    margin-bottom: 30pt;
+}
+
+.newhr{
+    color: black;   
+}
+
+.forms{
+    margin-bottom: 100pt;
+}
+
+.custom-carousel2 input{
+    color: black !important ;
+}
