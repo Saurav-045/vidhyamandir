@@ -1,0 +1,259 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.top_nav{
+  background-color: #3090C7;
+  padding: 10px 20px;
+}
+
+.icon{
+  padding: 20px 10px;
+  color: black;
+}
+
+.navbar_style{
+  color: black;
+  border: solid;
+}
+.image_style{
+  max-height:20% !important;
+  max-width: 100% !important;
+  margin-bottom: 50px;
+}
+
+.content_style{
+  text-align: center;
+  border: 50%;
+  margin-left: 400px;
+}
+
+.button_style{
+  text-align: center;
+  border: 50%;
+}
+
+.button_style:hover{
+  color: #3090C7;
+}
+
+.key_style{
+  background-image: url('https://www.balacron.com/en/collecties-balacron-digimedia/digifort/digifort-non-woven/15305%20Canvas');
+  background-size: cover;
+  background-repeat:no-repeat; 
+  padding: 20px;
+
+}
+
+.title_style{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  color: #3090C7;
+}
+
+.container {
+  position: relative;
+  left: auto;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.impact-style{
+  margin-bottom: 50px;
+}
+.impact_style{
+  text-align: center;
+  height: 100px;
+  width: 100px;
+}
+
+.elementor-counter-title{
+  margin-bottom: 50px;
+}
+
+.font_awesome{
+  margin-bottom: 20px;
+}
+
+.stakeholders-style{
+  background-image: url(https://www.cersanit.com/gfx/opoczno/_thumbs/en/produktyoferta/744/zambezi_blue_small_structure_matt_20x60_72dpi,rYOQ6mmmq12t.jpg);
+  padding: 40px !important;
+  margin-top: 100px !important;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-bottom: 100px !important;
+}
+
+.stakeholder-div{
+  float: left;
+}
+
+.stakeholder-content{
+  color: white;
+}
+
+.stakeholders-outer{
+  background-color: #A0BFE0;
+  margin: 20px;
+  color: white;
+}
+
+.stakeholders-inner{
+  width: 50% !important;
+  height: 55% !important;
+}
+
+.volunteer_style{
+  text-align: left;
+  margin-left: 100px;
+}
+.volunteer_image{
+  float: right;
+  margin-right: 50px;
+}
+
+.getinvolved_style{
+  background-image: url(https://img.freepik.com/free-vector/blue-technology-background_52683-10683.jpg?size=626&ext=jpg) !important;
+  padding: 60px;
+  color: white;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.getinvolved_container{
+  /* border: 25%; */
+  border-style: solid;
+  border-color:#DDE6ED;
+  width: 35% !important;
+}
+.getinvolved-text{
+  color: #3090C7;
+  text-align: center;
+  margin: 50px 200px;
+}
+
+.getinvolved-image{
+  width: 92% !important;
+  margin-top: 20px;
+}
+.getinvolved-title{
+  color:#3090C7 !important;
+  margin-top: 20px;
+}
+
+.getinvolved-content{
+  color: black;
+  text-align: center;
+}
+
+.getinvolvedbtn {
+  background: #f09009;
+  background-image: -webkit-linear-gradient(top, #f09009, #b87d2b);
+  background-image: -moz-linear-gradient(top, #f09009, #b87d2b);
+  background-image: -ms-linear-gradient(top, #f09009, #b87d2b);
+  background-image: -o-linear-gradient(top, #f09009, #b87d2b);
+  background-image: linear-gradient(to bottom, #f09009, #b87d2b);
+  -webkit-border-radius: 1;
+  -moz-border-radius: 1;
+  border-radius: 1px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  width: 30%;
+  height: 20%;
+  margin-bottom: 20px;
+}
+
+.getinvolvedbtn:hover {
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #0a0101);
+  background-image: -moz-linear-gradient(top, #000000, #0a0101);
+  background-image: -ms-linear-gradient(top, #000000, #0a0101);
+  background-image: -o-linear-gradient(top, #000000, #0a0101);
+  background-image: linear-gradient(to bottom, #000000, #0a0101);
+  text-decoration: none;
+}
+
+.corporate_container{
+  border-style: solid;
+  border-color:#DDE6ED;
+  width: 35% !important;
+  color: black;
+  text-align: left;
+}
+
+.corporate_btn{
+  text-align: center !important;
+  width: 30%;
+}
+
+.footer-style{
+  background-image: url(https://i.etsystatic.com/10420832/r/il/077c2f/4389903042/il_1140xN.4389903042_606s.jpg);
+  color: white;
+  padding: 20px;
+  margin-top: 200px;
+}
+
+.footer-image{
+  float: left;
+  margin: 5px;
+}
+
+.footer-icon{
+  margin: 10px;
+  margin-left: 50px;
+}
+
+.footer-form{
+  background-color: #f09009;
+  padding: 20px !important;
+  text-align: center;
+  margin-top: -100pt !important;
+}
+
+.footer-container{
+  text-align: left;
+}
+
+.footer-btn{
+  width: 415px;
+  background-color: white !important;
+  color: black !important;
+}
+
+.footer-btn:hover{
+  color: #f09009 !important;
+}
+
+.footer-icon2{
+  margin: 10px;
+}
+
+.footer-end{
+  background-color: #1B6B93;
+  color: white;
+  padding: 8px;
+  padding-top: 10px;
+  padding: 20px;
+  padding-bottom: 10px;
+}
